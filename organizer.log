@@ -1,0 +1,8 @@
+2026-07-24 21:50:46,896 - INFO - [DRY RUN] Moving: document.pdf \u27a1\ufe0f  Documents/document.pdf
+2026-07-24 21:50:46,897 - INFO - [DRY RUN] Moving: picture.jpg \u27a1\ufe0f  Images/picture.jpg
+2026-07-24 21:50:46,897 - INFO - [DRY RUN] Moving: sample.txt \u27a1\ufe0f  Documents/sample.txt
+2026-07-24 21:50:46,899 - INFO - [DRY RUN] Moving: script.py \u27a1\ufe0f  Python_Code/script.py
+2026-07-24 21:51:04,856 - INFO - Moving: document.pdf \u27a1\ufe0f  Documents/document.pdf
+2026-07-24 21:51:04,863 - INFO - Moving: picture.jpg \u27a1\ufe0f  Images/picture.jpg
+2026-07-24 21:51:04,871 - INFO - Moving: sample.txt \u27a1\ufe0f  Documents/sample.txt
+2026-07-24 21:51:04,874 - INFO - Moving: script.py \u27a1\ufe0f  Python_Code/script.py
